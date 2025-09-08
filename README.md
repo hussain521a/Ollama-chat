@@ -1,2 +1,2 @@
 # Ollama-chat
-Using Ollama and streamlit to create a chatbot
+Using Ollama, streamlit and lanchain to create a chatbot
